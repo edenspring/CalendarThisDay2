@@ -1,6 +1,6 @@
-# Solution for Calendar This Day 1
-Collected code to satisfy the Day 1 progress for Multi Day project Calendar This
-### Calendar This Day 1
+# Solution for Calendar This Day 2
+Collected code to satisfy the Day 2 progress for Multi Day project Calendar This
+### Calendar This Day 2
 This project will span most of the week and ask us to get to certain sections of an
 overall outline. The code collected into this repository will take us through 
 "Show the appointments on the page"
