@@ -3,7 +3,7 @@ Collected code to satisfy the Day 1 progress for Multi Day project Calendar This
 ### Calendar This Day 1
 This project will span most of the week and ask us to get to certain sections of an
 overall outline. The code collected into this repository will take us through 
-"Get your first page rendering"
+"Show the appointments on the page"
 ### Goal of this Repository
 This multi-day project covers some material that we haven't had a chance to cover
 yet as a class. While these concepts are coming and will get attention as the week
